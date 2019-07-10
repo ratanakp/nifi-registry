@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "dataModelVersion" : "3"
+  },
+  "content" : {
+    "flowSnapshot" : {
+      "flowContents" : {
+        "comments" : "",
+        "componentType" : "PROCESS_GROUP",
+        "connections" : [ ],
+        "controllerServices" : [ ],
+        "funnels" : [ ],
+        "identifier" : "15a8d56b-0a42-3963-a85f-7b9d148061f1",
+        "inputPorts" : [ ],
+        "labels" : [ ],
+        "name" : "Meme Process Group",
+        "outputPorts" : [ ],
+        "position" : {
+          "x" : -211.78435374052515,
+          "y" : 352.0010390292853
+        },
+        "processGroups" : [ ],
+        "processors" : [ ],
+        "remoteProcessGroups" : [ ],
+        "variables" : { }
+      }
+    }
+  }
+}
