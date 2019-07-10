@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "dataModelVersion" : "3"
+  },
+  "content" : {
+    "flowSnapshot" : {
+      "flowContents" : {
+        "comments" : "",
+        "componentType" : "PROCESS_GROUP",
+        "connections" : [ ],
+        "controllerServices" : [ ],
+        "funnels" : [ ],
+        "identifier" : "0aec334a-b5e9-3038-a9ac-53cfec2286dc",
+        "inputPorts" : [ ],
+        "labels" : [ ],
+        "name" : "fds",
+        "outputPorts" : [ ],
+        "position" : {
+          "x" : -85.78435374052515,
+          "y" : 187.00103902928532
+        },
+        "processGroups" : [ ],
+        "processors" : [ ],
+        "remoteProcessGroups" : [ ],
+        "variables" : { }
+      }
+    }
+  }
+}
